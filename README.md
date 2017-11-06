@@ -5,11 +5,11 @@ Turf is the people-powered compass. Instead of pointing to true north like a com
 
 ## Screenshots
 
-[<img src="screen_1.png" width="150" />]()
-[<img src="screen_2.png" width="150" />]()
-[<img src="screen_3.png" width="150" />]()
-[<img src="screen_4.png" width="150" />]()
-[<img src="screen_5.png" width="150" />]()
+[<img src="/screen_1.png" width="150" />]()
+[<img src="/screen_2.png" width="150" />]()
+[<img src="/screen_3.png" width="150" />]()
+[<img src="/screen_4.png" width="150" />]()
+[<img src="/screen_5.png" width="150" />]()
 
 ## Current Version
 
