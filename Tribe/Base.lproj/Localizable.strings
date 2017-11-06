@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  Tribe
+
+  Created by Ghost on 12/7/2017.
+  Copyright © 2017 Patrick. All rights reserved.
+*/
+
+"app_name" = "Turf";
+
+/**
+ * HomeVC
+ */
+"home_description" = "A shared location expires 1 hour\nafter it's shared.";
+"home_main_tour" = "Enter the name of your\ndestination below or open\na friend's location via a\n shared URL.";
+"home_search_placeholder" = "Search location";
+"home_share_placeholder" = "What's the name of this place?";
+"home_share_description" = "Users navigating to this location will\nsee this as the location name.\nYou cannot change this.";
+"home_share_button_cancel" = "Cancel";
+"home_share_button_share" = "Share";
+"home_no_places" = "No Results";
+
+/**
+ * SettingsVC
+ */
+"settings_location_services_title" = "Location Services";
+"settings_location_services_descript" = "Location Services are required for the app to function.";
+"settings_location_services_button0" = "Enable Location Services";
+"settings_location_history_title" = "Location History";
+"settings_location_hisotry_descript" = "Your location history is kept private within the app and is not shared";
+"settings_location_history_button0" = "Clear location history";
+"settings_permission_title" = "Settings";
+"settings_permission_message" = "It looks like your privacy settings are preventing us from accessing your location data. You can fix this by doing the following:\n\n1. Touch the Go button below to open the Settings app.\n\n2. Touch Privacy.\n\n3. Turn the Location Services on.\n\n4. Open this app and try again.";
+"settings_permission_go" = "Go";
+"settings_history_alert_title" = "Are you sure?";
+"settings_history_alert_msg" = "This will clear all your location history.";
+"settings_history_alert_yes" = "Yes";
+"settings_history_alert_no" = "No";
+
+/**
+ * HistoryVC
+ */
+"history_no_data" = "No History";
+
+/**
+ * SharedVC
+ */
+"shared_no_data" = "Nothing shared\n(by you or with you)";
+"shared_yours" = "👤 Your share";
+"shared_others" = "👥 Shared with you";
+
+/**
+ * AppDelegate
+ */
+"delegate_redirect_alert_title" = "Is this where you\nwant to go?";
+"delegate_redirect_alert_msg" = "You've launched directions to\n";
+"delegate_redirect_alert_yes" = "Go";
+"delegate_redirect_alert_no" = "Cancel";
+"delegate_redirect_expired_title" = "You're too slow";
+"delegate_redirect_expired_msg" = "This location has reached it's 1 hour expiration time";
+"delegate_redirect_expired_ok" = "Okay 😔";
