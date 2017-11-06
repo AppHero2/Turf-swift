@@ -30,7 +30,7 @@ There is always room for improvement.
 
 #### Report issue
 
-Did you encounter bugs? Report them [here](https://github.com/AppHero2/Raffler-Android/issues). The more relevant information you provide the easier and faster it can be resolved.
+Did you encounter bugs? Report them [here](https://github.com/AppHero2/Turf/issues). The more relevant information you provide the easier and faster it can be resolved.
 
 ## License
 
